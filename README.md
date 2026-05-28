@@ -74,31 +74,11 @@ Central de Cursos
 ## - Codigo limpo e organizado.
 
 
+#### Vamos fazer uma Lója de Informática
 
 
-# Sistema de Central de Cursos
+# Loja de Informática
 
-## Produtos:
 
-# Graduações:
 
-## Categoria Administração
-Administração = None
-Contabilidade = None
-Financas = None
 
-## Categoria Técnologia
-ADS = None
-Ciencia_da_Computação = None
-Engenharia_da_Computacao = None
-Engenharia_de_Software = None
-
-## Vendas
-Cadastrar = None
-Codigo_cadastro = None
-Produto_Cadastro = None
-Editar_Produto = None
-Remover_Produto = None
-Consultar_Produto = None
-Estoque = None
-Vendas = None
