@@ -1,5 +1,5 @@
 # estrutura_dados_1
-Central de Cursos
+
 # Objetivo
 ## Construir um sistema de linha de comando para controlar
 ## produtos, vendas e relatorios. O projeto deve aplicar 
